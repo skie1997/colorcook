@@ -1,6 +1,6 @@
 export default class ApiUtil {
-    // static URL_IP = 'http://3q2365905g.zicp.vip:80';
-    static URL_IP = 'http://localhost:5000';
+    static URL_IP = 'http://3q2365905g.zicp.vip:80';
+    // static URL_IP = 'http://localhost:5000';
     // static URL_IP = 'http://10.11.50.52:5000';
     static URL_ROOT = '/api/v1';
  
